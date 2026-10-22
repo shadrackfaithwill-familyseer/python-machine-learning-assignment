@@ -19,6 +19,6 @@
 •	predict() uses the trained model to make predictions.
 
 7. Give two real-world applications of supervised learning and two of unsupervised learning.
-      •	Supervised learning: Email spam detection and house price prediction.
-      •	Unsupervised learning: Customer segmentation and grouping similar news articles.
+•	Supervised learning: Email spam detection and house price prediction.
+•	Unsupervised learning: Customer segmentation and grouping similar news articles.
 
